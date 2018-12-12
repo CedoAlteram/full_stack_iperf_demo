@@ -1,0 +1,19 @@
+Connecting to host 35.190.161.66, port 80
+[  4] local 10.142.0.2 port 51820 connected to 35.190.161.66 port 80
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec   132 MBytes  1.11 Gbits/sec  566    324 KBytes       
+[  4]   1.00-2.00   sec   112 MBytes   940 Mbits/sec    0    525 KBytes       
+[  4]   2.00-3.00   sec   167 MBytes  1.40 Gbits/sec  985    484 KBytes       
+[  4]   3.00-4.00   sec   122 MBytes  1.02 Gbits/sec  444    539 KBytes       
+[  4]   4.00-5.00   sec   175 MBytes  1.46 Gbits/sec  155    703 KBytes       
+[  4]   5.00-6.00   sec   182 MBytes  1.53 Gbits/sec  2865    404 KBytes       
+[  4]   6.00-7.00   sec   129 MBytes  1.08 Gbits/sec    0    600 KBytes       
+[  4]   7.00-8.00   sec   160 MBytes  1.35 Gbits/sec  860    373 KBytes       
+[  4]   8.00-9.00   sec   131 MBytes  1.10 Gbits/sec    0    583 KBytes       
+[  4]   9.00-10.00  sec   177 MBytes  1.49 Gbits/sec  920    309 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-10.00  sec  1.45 GBytes  1.25 Gbits/sec  6795             sender
+[  4]   0.00-10.00  sec  1.45 GBytes  1.25 Gbits/sec                  receiver
+
+iperf Done.
