@@ -7,3 +7,4 @@ the intent with this project was to do the following:
 
 TODO
 - run an analysis on the last tests and passes back to history page
+- Add decorator to allow for the reading of the files back on a sep page
